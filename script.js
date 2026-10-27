@@ -42,8 +42,8 @@ const CATEGORIES = [
     items: [
       { title: 'সোনার বিগ্রহ', desc: 'Bengali short film edit — pacing, music and colour working together.', tags: ['Audio Stories', 'Bengali'], src: 'https://www.youtube.com/watch?v=hWnM2LzC1Y0' },
       { title: 'মায়ানগরের মায়াপথ', desc: 'Bengali crime-drama promo with a moody, high-contrast grade.', tags: ['Audio Stories', 'Bengali'], src: 'https://www.youtube.com/watch?v=u5jCl5nEvqw' },
-      { title: 'Short Film — Project 03', desc: 'Add your next short film or promo here.', tags: ['Audio Stories'], src: S + 'ForBiggerBlazes.mp4' },
-      { title: 'Short Film — Project 04', desc: 'Add your next short film or promo here.', tags: ['Audio Stories'], src: S + 'ForBiggerFun.mp4' },
+      { title: 'Audio Stories — Project 03', desc: 'Add your next audio story or promo here.', tags: ['Audio Stories'], src: S + 'ForBiggerBlazes.mp4' },
+      { title: 'Audio Stories — Project 04', desc: 'Add your next audio story or promo here.', tags: ['Audio Stories'], src: S + 'ForBiggerFun.mp4' },
     ],
   },
 ];
