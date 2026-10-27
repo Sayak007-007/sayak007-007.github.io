@@ -32,7 +32,7 @@ const CATEGORIES = [
     title: 'Documentary-Style Edits',
     items: [
       { title: 'Documentary-Style Edit — Project 01', desc: 'Story-driven editing with structured sequencing, pacing and visual storytelling.', tags: ['Documentary', 'Storytelling'], src: 'https://www.youtube.com/watch?v=PKdERjS0ZyE' },
-      { title: 'Documentary-Style Edit — Project 02', desc: 'Documentary-focused edit demonstrating narrative pacing, B-roll construction and visual continuity.', tags: ['Documentary', 'B-roll'], src: 'https://www.youtube.com/watch?v=u5jCl5nEvqw' },
+      { title: 'Documentary-Style Edit — Project 02', desc: 'Documentary-focused edit demonstrating narrative pacing, B-roll construction and visual continuity.', tags: ['Documentary', 'B-roll'], src: 'https://youtu.be/u8CXDc6X91U?si=Aog8beGo0JGmaK-T' },
       { title: 'Documentary-Style Edit — Project 03', desc: 'Add your next documentary project here.', tags: ['Documentary'], src: S + 'ElephantsDream.mp4' },
       { title: 'Documentary-Style Edit — Project 04', desc: 'Add your next documentary project here.', tags: ['Documentary'], src: S + 'TearsOfSteel.mp4' },
     ],
