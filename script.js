@@ -33,7 +33,7 @@ const CATEGORIES = [
     items: [
       { title: 'Documentary-Style Edit — Project 01', desc: 'Story-driven editing with structured sequencing, pacing and visual storytelling.', tags: ['Documentary', 'Storytelling'], src: 'https://www.youtube.com/watch?v=PKdERjS0ZyE' },
       { title: 'Documentary-Style Edit — Project 02', desc: 'Documentary-focused edit demonstrating narrative pacing, B-roll construction and visual continuity.', tags: ['Documentary', 'B-roll'], src: 'https://youtu.be/u8CXDc6X91U?si=Aog8beGo0JGmaK-T' },
-      { title: 'Documentary-Style Edit — Project 03', desc: ' Parkour Video in DaVinci Resolve CUT Page.', tags: ['Documentary'], 'https://youtu.be/2kkOQmgKNUM?si=ePeqRfIQpxefbstR' },
+      { title: 'Documentary-Style Edit — Project 03', desc: 'Parkour Video in DaVinci Resolve CUT Page.', tags: ['Documentary'], src: 'https://youtu.be/2kkOQmgKNUM?si=ePeqRfIQpxefbstR' },
       { title: 'Documentary-Style Edit — Project 04', desc: 'Add your next documentary project here.', tags: ['Documentary'], src: S + 'TearsOfSteel.mp4' },
     ],
   },
@@ -42,7 +42,7 @@ const CATEGORIES = [
     items: [
       { title: 'সোনার বিগ্রহ', desc: 'Bengali short film edit — pacing, music and colour working together.', tags: ['Audio Stories', 'Bengali'], src: 'https://www.youtube.com/watch?v=hWnM2LzC1Y0' },
       { title: 'মায়ানগরের মায়াপথ', desc: 'Bengali crime-drama promo with a moody, high-contrast grade.', tags: ['Audio Stories', 'Bengali'], src: 'https://www.youtube.com/watch?v=u5jCl5nEvqw' },
-      { title: 'কিরীটী ও কালো পাখী', desc: 'Bengali crime thriller detective Story.', tags: ['Audio Stories'], 'https://youtu.be/VDKYU_-FzFw?si=rHnhRCClQG5yhRWM' },
+      { title: 'কিরীটী ও কালো পাখী', desc: 'Bengali crime thriller detective Story.', tags: ['Audio Stories'], src: 'https://youtu.be/VDKYU_-FzFw?si=rHnhRCClQG5yhRWM' },
       { title: 'Audio Stories — Project 04', desc: 'Add your next audio story or promo here.', tags: ['Audio Stories'], src: S + 'ForBiggerFun.mp4' },
     ],
   },
